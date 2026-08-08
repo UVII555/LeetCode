@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UVII555/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UVII555/LeetCode/tree/master/0027-remove-element) |
+| [1768-merge-strings-alternately](https://github.com/UVII555/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UVII555/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/UVII555/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
