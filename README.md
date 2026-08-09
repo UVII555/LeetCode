@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UVII555/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UVII555/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -36,5 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UVII555/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/UVII555/LeetCode/tree/master/1768-merge-strings-alternately) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UVII555/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UVII555/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
