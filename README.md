@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UVII555/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/UVII555/LeetCode/tree/master/0027-remove-element) |
+| [0605-can-place-flowers](https://github.com/UVII555/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/UVII555/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3731-find-missing-elements](https://github.com/UVII555/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UVII555/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/UVII555/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
